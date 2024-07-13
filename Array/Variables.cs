@@ -1,7 +1,7 @@
  using System;
 class arrays
 { 
-  int main()
+  static void Main(string[] args)
   { 
  // array is defined by variable tyoe with square bracket
   string[] cars;
@@ -12,5 +12,9 @@ string[] cars = {"Toyota", "Ford", "BMW"};
 
 // to insert integer value
 int[] num = {1, 2, 6};
+
+// access the array
+
+Console.Writeline(num[2]); // 6 as output
   }
 }
