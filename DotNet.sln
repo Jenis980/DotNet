@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdditionOp", "AdditionOp\AdditionOp.csproj", "{57886020-87C9-4E25-BDB6-A2E284639954}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57886020-87C9-4E25-BDB6-A2E284639954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57886020-87C9-4E25-BDB6-A2E284639954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57886020-87C9-4E25-BDB6-A2E284639954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57886020-87C9-4E25-BDB6-A2E284639954}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2133A486-B0F5-4983-BB75-D8427643A4A2}
+	EndGlobalSection
+EndGlobal
