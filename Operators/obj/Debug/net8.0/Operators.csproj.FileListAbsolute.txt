@@ -1,0 +1,15 @@
+/workspaces/DotNet_JenishDongol/Operators/bin/Debug/net8.0/Operators
+/workspaces/DotNet_JenishDongol/Operators/bin/Debug/net8.0/Operators.deps.json
+/workspaces/DotNet_JenishDongol/Operators/bin/Debug/net8.0/Operators.runtimeconfig.json
+/workspaces/DotNet_JenishDongol/Operators/bin/Debug/net8.0/Operators.dll
+/workspaces/DotNet_JenishDongol/Operators/bin/Debug/net8.0/Operators.pdb
+/workspaces/DotNet_JenishDongol/Operators/obj/Debug/net8.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/DotNet_JenishDongol/Operators/obj/Debug/net8.0/Operators.AssemblyInfoInputs.cache
+/workspaces/DotNet_JenishDongol/Operators/obj/Debug/net8.0/Operators.AssemblyInfo.cs
+/workspaces/DotNet_JenishDongol/Operators/obj/Debug/net8.0/Operators.csproj.CoreCompileInputs.cache
+/workspaces/DotNet_JenishDongol/Operators/obj/Debug/net8.0/Operators.sourcelink.json
+/workspaces/DotNet_JenishDongol/Operators/obj/Debug/net8.0/Operators.dll
+/workspaces/DotNet_JenishDongol/Operators/obj/Debug/net8.0/refint/Operators.dll
+/workspaces/DotNet_JenishDongol/Operators/obj/Debug/net8.0/Operators.pdb
+/workspaces/DotNet_JenishDongol/Operators/obj/Debug/net8.0/Operators.genruntimeconfig.cache
+/workspaces/DotNet_JenishDongol/Operators/obj/Debug/net8.0/ref/Operators.dll

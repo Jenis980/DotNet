@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "AdditionOp/1.0.0": {
+      "Operators/1.0.0": {
         "runtime": {
-          "AdditionOp.dll": {}
+          "Operators.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "AdditionOp/1.0.0": {
+    "Operators/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

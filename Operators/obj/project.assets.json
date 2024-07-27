@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/DotNet/AdditionOp/AdditionOp.csproj",
-      "projectName": "AdditionOp",
-      "projectPath": "/workspaces/DotNet/AdditionOp/AdditionOp.csproj",
+      "projectUniqueName": "/workspaces/DotNet_JenishDongol/Operators/Operators.csproj",
+      "projectName": "Operators",
+      "projectPath": "/workspaces/DotNet_JenishDongol/Operators/Operators.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/DotNet/AdditionOp/obj/",
+      "outputPath": "/workspaces/DotNet_JenishDongol/Operators/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"
